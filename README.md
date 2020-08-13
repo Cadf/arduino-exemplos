@@ -54,6 +54,12 @@
 * OBS: Está com o código do ECHO implementado também, mas ainda não estão
        funcionando os 2 recursos ao mesmo tempo
 
+## Contexto 4 (Sensor-HTTP-WeeESP8266)
+
+* 0: Utiliza biblioteca WeeESP8266, SimpleDHT
+* 1: Leitura de diversos sensores e envio de suas variáveis para a plataforma ProIoT
+
+
 ## Referências
 
 * [WeeESP8266](https://github.com/itead/ITEADLIB_Arduino_WeeESP8266)
