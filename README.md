@@ -30,6 +30,8 @@
 * [Biblioteca WeeESP8266](https://github.com/itead/ITEADLIB_Arduino_WeeESP8266)
 * Arduino UNO
 * Módulo ESP8266
+* Sensor DHT22 ou DHT11
+* Sensor LM35
 
 ## Contexto 1 (Teste-Modulo-ESP8266)
 
